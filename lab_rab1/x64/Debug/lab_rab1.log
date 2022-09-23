@@ -1,0 +1,4 @@
+﻿  lab_rab1.cpp
+C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab1\lab_rab1\lab_rab1.cpp(6,25): warning C4305: инициализация: усечение из "int" в "wchar_t"
+C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab1\lab_rab1\lab_rab1.cpp(6,15): warning C4309: инициализация: усечение константного значения
+  lab_rab1.vcxproj -> C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab1\x64\Debug\HelloWorld.exe
